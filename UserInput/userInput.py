@@ -16,10 +16,7 @@ age:int = ''
 Hint: Var_name = key, Input_variable = value (complete key: value pairs)
 
 user_profile = {
-    First_name : first_name,
-    Last_name : last_name,
-    Age : age,
-    Id : id,
+    key: value,
 }
 
 2) Add a unique id to our user by geneating a random number as their id using the random module
