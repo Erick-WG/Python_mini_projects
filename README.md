@@ -2,7 +2,7 @@
 This project is currated to help beginners in python to have a more practicle way of thinking in creating python projects, and enabling them to have a basic understanding of fundamental concepts in python.
 
 ## Navigating the project
-In your file explorer, create a new folder for your projects that we'll fork from here. Open a terminal on this folder by right clicking on the folder we created above.
+In your file explorer, create a new folder for your projects that we'll clone from here. Open a terminal on this folder by right clicking on the folder we created above.
 
 ### <u>_Run this commands in the terminal window_</u>
 #### *Cloning the remote repository*
