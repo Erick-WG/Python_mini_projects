@@ -18,7 +18,9 @@ age:int = ''
 # CHALLENGE
 '''
 1) Build a user Object/dictionary from the date users input
-Hint: Var_name = key, Input_variable = value (complete key: value pairs)
+Hint:
+    use int values as your keys.
+    outline: int = key, Input_variable = value (complete, key: value , pairs)
 
 user_profile = {
     key: value,
