@@ -3,7 +3,7 @@
 # ask for users to input their agents
 user_age:int = ''
 
-# create a condition that checks user's eligibility to vote, hint: required age = 18
+# create a condition that checks user's eligibility to vote, hint: required age >= 18
 
 
 # print to the terminal confirming to our user that they are eligable to vote
