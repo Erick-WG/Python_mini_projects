@@ -1,14 +1,19 @@
-# Collect a users profile
+# Collect a user's information we can use to profile them.
+
+# Attribute info to collect.
 
 # First Name
 # Last Name
 # Age
+
+# Attribute info to build into the profile.
+
 # Random UserId
 
 first_name:str = ''
 last_ame:str = ''
 age:int = ''
-# id:int = 'use Random module after importing it'
+# id:int = 'use Random module after importing it to assign a random number to this var id, uncommenting it firstd.'
 
 # CHALLENGE
 '''
